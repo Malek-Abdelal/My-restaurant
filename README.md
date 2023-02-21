@@ -1,3 +1,3 @@
 # My-restaurant
 
-![rest-Wireframe](kkk.png)
+![rest-Wireframe](rest.jpg)
